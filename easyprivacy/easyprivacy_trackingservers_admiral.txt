@@ -228,6 +228,7 @@
 ||captivatingillusion.com^
 ||captivatingpanorama.com^
 ||captivatingperformance.com^
+||cardmethod.com^
 ||carefuldolls.com^
 ||caringcast.com^
 ||carloforward.com^
@@ -675,6 +676,7 @@
 ||gloriousbeef.com^
 ||glowingmeadow.com^
 ||gluedpixel.com^
+||goddesslamps.com^
 ||godseedband.com^
 ||goldfishgrowth.com^
 ||goldstudies.com^
@@ -807,6 +809,7 @@
 ||intentlens.com^
 ||internalcondition.com^
 ||internalsink.com^
+||inventorycache.com^
 ||inventtango.com^
 ||iotapool.com^
 ||irelandroad.com^
@@ -976,6 +979,7 @@
 ||mindfulgem.com^
 ||mindlessmark.com^
 ||mineinvoice.com^
+||minibilling.com^
 ||minorcattle.com^
 ||minuteburst.com^
 ||miscreantmoon.com^
@@ -1042,6 +1046,7 @@
 ||notcardboard.com^
 ||notconscious.com^
 ||notifyglass.com^
+||notrealcat.com^
 ||noundictionary.com^
 ||novaseekers.com^
 ||nowaymail.com^
@@ -1114,6 +1119,7 @@
 ||pickmicro.com^
 ||pietexture.com^
 ||pigeonsetc.com^
+||pigmentpaper.com^
 ||pinchsquirrel.com^
 ||pincourse.com^
 ||piquantgrove.com^
@@ -1217,6 +1223,7 @@
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||rackforstorage.com^
 ||radiantcanopy.com^
 ||radiantlullaby.com^
 ||radiateprose.com^
@@ -1705,6 +1712,7 @@
 ||toomanyalts.com^
 ||topbookgifts.com^
 ||topcrazypress.com^
+||topthrowbacks.com^
 ||touristfuel.com^
 ||toysbasics.com^
 ||toytakeover.com^
@@ -1858,6 +1866,7 @@
 ||wrongwound.com^
 ||wtaccesscontrol.com^
 ||yieldingwoman.com^
+||youcandrawanything.com^
 ||yourlifedream.com^
 ||zephyrcatalyst.com^
 ||zephyrlabyrinth.com^
